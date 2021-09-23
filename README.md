@@ -11,8 +11,11 @@ Project on Raspberry Pi that handles Daily mobile logins
 # Setting up dailies via crontab
 `crontab -e`
 
-setup reboot code
+setup reboot code in crontab
+
 `@reboot bash /home/pi/adbreboot.sh`
-setup main code
+
+setup main code in crontab
+
 `1 8 * * * bash /home/pi/adbmain.sh`
 
