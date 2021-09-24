@@ -24,4 +24,5 @@ setup main code in crontab
 
 `1 8 * * * bash /home/pi/adbmain.sh`
 
-![image](https://user-images.githubusercontent.com/33008397/134711729-8a9adb5e-0c83-4482-8210-12aee25ee0c6.png)
+![image](https://user-images.githubusercontent.com/33008397/134712377-98e4640e-61cc-4731-a6cc-0b4917e2fead.png)
+
