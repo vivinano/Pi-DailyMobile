@@ -23,11 +23,11 @@ Raspberry PI 3/4 - Optional as you can also run on Linux
 
 setup reboot code in crontab
 
-`@reboot bash /home/pi/adbreboot.sh`
+`@reboot /bin/bash /home/pi/adbreboot.sh`
 
 setup main code in crontab
 
-`1 8 * * * bash /home/pi/adbmain.sh`
+`1 8 * * * /bin/bash /home/pi/adbmain.sh`
 
 # Getting App Name
 
