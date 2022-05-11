@@ -30,6 +30,7 @@ setup main code in crontab
 `1 8 * * * /bin/bash /home/pi/adbmain.sh`
 
 setting up crontab that creates a file for output
+
 `1 12 * * * /bin/bash /home.pi/hoyoscript.sh > /home/pi/Documents/hoyoOutput.txt`
 
 # Getting App Name
