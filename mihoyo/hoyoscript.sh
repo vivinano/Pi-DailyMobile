@@ -42,7 +42,7 @@ sleep 8
 tap_pos "288" "31e"
 sleep 5
 #tap Sign in
-tap_pos "661" "5c9"
+tap_pos "afe" "71b"
 sleep 8
 #tap 1
 tap_pos "33e" "a1b"
