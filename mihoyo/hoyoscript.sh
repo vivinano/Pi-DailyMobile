@@ -34,7 +34,7 @@ sleep 5
 
 function hoyogenshin {
 open_app "com.mihoyo.hoyolab"
-sleep 5
+sleep 10
 #tap Tools Ico
 tap_pos "51a" "fb6"
 sleep 8
@@ -42,7 +42,7 @@ sleep 8
 tap_pos "288" "31e"
 sleep 5
 #tap Sign in
-tap_pos "afe" "71b"
+tap_pos "4f2" "9f9"
 sleep 8
 #tap 1
 tap_pos "33e" "a1b"
@@ -76,7 +76,7 @@ close_app "com.mihoyo.hoyolab"
 
 function hoyohi {
 open_app "com.mihoyo.hoyolab"
-sleep 5
+sleep 10
 #tap Tools ico
 tap_pos "51a" "fb6"
 sleep 5
